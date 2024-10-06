@@ -5,12 +5,12 @@ This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/kl
 
 Ender 3 v2:
 - Microswiss NG Revo DD
-- CR touch
+- KlackEnder Probe
 - Sunon Maglev 4020 fan
 - Yellow stiff bed springs
 - Comgrow textured magnetic pei sheet
 - Control board and PSU silent Noctua 90mm cooling fans
-- Raspberry Pi 4b 4GB running klipper
+- Raspberry Pi 4B 4GB running klipper
 - Kusba ADXL input shaping sensor
 - Stock creality 4.2.2 board
 - Stock stepper motors
